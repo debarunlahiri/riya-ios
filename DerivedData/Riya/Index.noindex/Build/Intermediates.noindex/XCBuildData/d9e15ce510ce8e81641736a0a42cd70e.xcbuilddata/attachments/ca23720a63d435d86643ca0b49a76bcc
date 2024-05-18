@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/Riya.build/Objects-normal/arm64/Riya-master.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/Riya.build/Objects-normal/arm64/Riya-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/Riya.build/Objects-normal/arm64/Riya-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/Riya.build/Objects-normal/arm64/Riya-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/Riya.build/Objects-normal/arm64/Riya-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/Riya.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/Riya/ContentView.swift" : {
+
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/Riya/RiyaApp.swift" : {
+
+  }
+}

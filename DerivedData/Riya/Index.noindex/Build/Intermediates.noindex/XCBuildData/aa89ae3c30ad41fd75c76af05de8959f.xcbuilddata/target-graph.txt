@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'RiyaUITests' in project 'Riya' (no dependencies)
+Target 'RiyaUITests' in project 'Riya'
+➜ Explicit dependency on target 'Riya' in project 'Riya'
+Target 'RiyaUITests' in project 'Riya'
+➜ Explicit dependency on target 'Riya' in project 'Riya'
+Target 'RiyaTests' in project 'Riya' (no dependencies)
+Target 'RiyaTests' in project 'Riya'
+➜ Explicit dependency on target 'Riya' in project 'Riya'
+Target 'RiyaTests' in project 'Riya'
+➜ Explicit dependency on target 'Riya' in project 'Riya'
+Target 'Riya' in project 'Riya' (no dependencies)
+Target 'Riya' in project 'Riya' (no dependencies)

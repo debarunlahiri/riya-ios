@@ -1,0 +1,12 @@
+{
+  "source": "/Users/debarunlahiri/XcodeProjects/Riya/Riya/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

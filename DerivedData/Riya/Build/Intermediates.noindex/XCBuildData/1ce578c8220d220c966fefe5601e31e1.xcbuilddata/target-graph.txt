@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'RiyaUITests' in project 'Riya'
+➜ Explicit dependency on target 'Riya' in project 'Riya'
+Target 'RiyaTests' in project 'Riya'
+➜ Explicit dependency on target 'Riya' in project 'Riya'
+Target 'Riya' in project 'Riya' (no dependencies)

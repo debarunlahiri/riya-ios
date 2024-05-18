@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/RiyaUITests.build/Objects-normal/arm64/RiyaUITests-master.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/RiyaUITests.build/Objects-normal/arm64/RiyaUITests-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/RiyaUITests.build/Objects-normal/arm64/RiyaUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/RiyaUITests.build/Objects-normal/arm64/RiyaUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphoneos/RiyaUITests.build/Objects-normal/arm64/RiyaUITests-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/RiyaUITests/RiyaUITests.swift" : {
+
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/RiyaUITests/RiyaUITestsLaunchTests.swift" : {
+
+  }
+}

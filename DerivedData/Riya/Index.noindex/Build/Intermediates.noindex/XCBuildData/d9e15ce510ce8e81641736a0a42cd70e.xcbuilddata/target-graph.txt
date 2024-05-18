@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Riya' in project 'Riya' (no dependencies)
+Target 'Riya' in project 'Riya' (no dependencies)

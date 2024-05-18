@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/Riya-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/Riya-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/Riya-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/Riya-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/Riya/ContentView.swift" : {
+    "const-values" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/Riya/RiyaApp.swift" : {
+    "const-values" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.swiftconstvalues",
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.dia",
+    "index-unit-output-path" : "/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.o",
+    "llvm-bc" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.bc",
+    "object" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.o",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp.swiftdeps",
+    "swiftmodule" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex/Riya.build/Debug-iphonesimulator/Riya.build/Objects-normal/arm64/RiyaApp~partial.swiftmodule"
+  }
+}

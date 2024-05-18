@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphonesimulator/RiyaTests.build/Objects-normal/arm64/RiyaTests-master.d",
+    "diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphonesimulator/RiyaTests.build/Objects-normal/arm64/RiyaTests-master.dia",
+    "emit-module-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphonesimulator/RiyaTests.build/Objects-normal/arm64/RiyaTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphonesimulator/RiyaTests.build/Objects-normal/arm64/RiyaTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/Build/Intermediates.noindex/Riya.build/Debug-iphonesimulator/RiyaTests.build/Objects-normal/arm64/RiyaTests-master.swiftdeps"
+  },
+  "/Users/debarunlahiri/XcodeProjects/Riya/RiyaTests/RiyaTests.swift" : {
+
+  }
+}

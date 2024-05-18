@@ -1,0 +1,209 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "cae1c96afbcee379d334d97c6f5551b1887448510fe10faed23e790d348941b2",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Products",
+          "derivedDataPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/ProfileData",
+              "DSTROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex",
+              "SYMROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "D2FC6882-B5E3-41D9-8858-9123D74C4FDC",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "cae1c96afbcee379d334d97c6f5551b1cd0b1c8e6723ef712dfe8148d9537708",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Products",
+          "derivedDataPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/ProfileData",
+              "DSTROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex",
+              "SYMROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "D2FC6882-B5E3-41D9-8858-9123D74C4FDC",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "cae1c96afbcee379d334d97c6f5551b1233e6a735ed0571358e0b6149107aa4d",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Products",
+          "derivedDataPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/ProfileData",
+              "DSTROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Intermediates.noindex",
+              "SYMROOT" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/Previews/iphonesimulator/Riya/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "D2FC6882-B5E3-41D9-8858-9123D74C4FDC",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/debarunlahiri/XcodeProjects/Riya/Riya.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Products",
+      "derivedDataPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/debarunlahiri/XcodeProjects/Riya/DerivedData/Riya/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "D2FC6882-B5E3-41D9-8858-9123D74C4FDC",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
