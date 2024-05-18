@@ -74,5 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out if you have any questions or need further assistance.
 
 ---
-
-<img src="https://drive.google.com/uc?export=view&id=1xZuK9er1B4D7zhNM4HdFnxFufUZYyCfK" alt="Riya Chat Application" width="300"/>
