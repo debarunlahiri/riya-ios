@@ -2,7 +2,7 @@
 
 Riya is a simple SwiftUI-based chat application that allows users to send messages and images, and receive responses from an AI chatbot. This project demonstrates the use of SwiftUI, image uploading, and integrating with OpenAI's GPT-4 API for generating chatbot responses.
 
-![Riya Chat Application](https://drive.google.com/uc?export=view&id=1xZuK9er1B4D7zhNM4HdFnxFufUZYyCfK)
+<img src="https://drive.google.com/uc?export=view&id=1xZuK9er1B4D7zhNM4HdFnxFufUZYyCfK" alt="Riya Chat Application" width="300"/>
 
 ## Features
 
@@ -75,4 +75,4 @@ Feel free to reach out if you have any questions or need further assistance.
 
 ---
 
-![Riya Chat Application](https://drive.google.com/uc?export=view&id=1xZuK9er1B4D7zhNM4HdFnxFufUZYyCfK)
+<img src="https://drive.google.com/uc?export=view&id=1xZuK9er1B4D7zhNM4HdFnxFufUZYyCfK" alt="Riya Chat Application" width="300"/>
